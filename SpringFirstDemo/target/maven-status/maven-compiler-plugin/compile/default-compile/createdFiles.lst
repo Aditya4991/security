@@ -1,0 +1,9 @@
+com\mindtree\model\Login.class
+com\mindtree\dao\UserMapper.class
+com\mindtree\controller\LoginController.class
+com\mindtree\service\UserService.class
+com\mindtree\dao\UserDao.class
+com\mindtree\service\UserServiceImpl.class
+com\mindtree\model\User.class
+com\mindtree\dao\UserDaoImpl.class
+com\mindtree\controller\RegistrationController.class
